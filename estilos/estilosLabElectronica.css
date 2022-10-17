@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(223, 246, 223);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#parrafotecm2{
+    color: blue;
+    text-align: center;
+}
+#parrafotecm1{
+    text-align: center;
+}
+a:hover{
+    color: rgb(30, 18, 30);
+}
+h2{
+    text-align: center;
+}
+
+table{
+    margin: 0 auto;
+    width: 90%;
+}
+
